@@ -2,7 +2,6 @@ package com.sembozdemir.oncontinuousclicklistener.library;
 
 import android.os.Handler;
 import android.os.Message;
-import android.view.HapticFeedbackConstants;
 import android.view.MotionEvent;
 import android.view.View;
 
@@ -40,7 +39,7 @@ public abstract class OnContinuousClickListener implements View.OnLongClickListe
         handler.post(new Runnable() {
             @Override
             public void run() {
-                v.performHapticFeedback(HapticFeedbackConstants.VIRTUAL_KEY);
+                // v.performHapticFeedback(HapticFeedbackConstants.VIRTUAL_KEY);
                 onContinuousClick(v);
 
                 Message message = Message.obtain(handler, this);

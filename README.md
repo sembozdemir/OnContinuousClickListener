@@ -3,9 +3,7 @@
 
 Very simple continuous click listener implementation for Android
 
-### Screenshots
-
-Coming soon...
+![sample.gif](sample.gif)
 
 ## How to add
 OnContinuousClickListener is published with [JitPack.io](https://jitpack.io).
