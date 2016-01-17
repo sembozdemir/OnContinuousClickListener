@@ -1,4 +1,6 @@
 # OnContinuousClickListener
+[![JitPack.io](https://jitpack.io/v/sembozdemir/OnContinuousClickListener.svg)](https://jitpack.io/#sembozdemir/OnContinuousClickListener)
+
 Very simple continuous click listener implementation for Android
 
 ### Screenshots
