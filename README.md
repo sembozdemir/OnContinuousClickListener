@@ -3,7 +3,7 @@
 
 Very simple continuous click listener implementation for Android
 
-![sample.gif](sample.gif)
+<img src="sample.gif" width="360px" height="640px">
 
 ## How to add
 OnContinuousClickListener is published with [JitPack.io](https://jitpack.io).
